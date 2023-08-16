@@ -1,0 +1,24 @@
+Privacy Policy for Bouncing Zombie Mobile Game
+
+At Bouncing Zombie, we take your privacy very seriously. This Privacy Policy explains how we handle your information when you use our mobile game.
+
+1. Information We Collect
+We only collect data related to high scores achieved in each level of our game. This data is anonymous, meaning it cannot be used to personally identify you or any other user. We do not collect any personal information such as your name, email address, or phone number.
+
+2. Data Storage
+The data we collect, specifically the high scores for each level, is stored locally on your device. This means that the information is saved directly on your phone and does not leave your device. We do not transmit this data to our servers or any third-party servers.
+
+3. Permissions
+Our game does not require any special permissions on your mobile device. We do not access any personal information, contact lists, or any other data stored on your device. The game solely focuses on providing you with an entertaining and enjoyable gaming experience.
+
+4. Children's Privacy
+Protecting the privacy of children is of utmost importance to us. Our game is not intended for children under the age of 13. We do not knowingly collect any personal information from children under the age of 13. 
+
+5. Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. Any changes we make will be posted within the game. We encourage you to review the Privacy Policy regularly to stay informed about how we collect and protect your information.
+
+If you have any questions or concerns about our Privacy Policy, please contact us at fraggerhimself@gmail.com.
+
+Last Updated:2023-08-16
+
+Please note that this Privacy Policy is solely written for the Bouncing Zombie mobile game and does not cover any external websites or services that may be linked from within the game.
